@@ -9,12 +9,12 @@ def predict(i):
 
 # train the network
 for _ in range(25):
-    pred = [predict(i) for i in inputs]
-    errors = [t - p for p, t in zip(pred, targets)]
-    cost = sum(errors) / len(targets)
-    print(f"Weight: {w:.2f}, Cost: {cost:.2f}")
-    w += learning_rate * cost
-    
+	pred = [predict(i) for i in inputs]
+	errors = [t - p for p, t in zip(pred, targets)]
+	cost = sum(errors) / len(targets)
+	print(f"Weight: {w:.2f}, Cost: {cost:.2f}")
+	w += learning_rate * cost
+
 # test the network
 test_inputs = [5, 6]
 test_targets = [10, 12]
