@@ -10,6 +10,6 @@
 
 In chapter 07.01, the neural network process is complete with feed forward, back propagation and hidden layers.
 
-![neural network process](https://github.com/madeinouweland/nn/blob/master/resources/nn%20process%20diagram.jpeg)
+![neural network process](https://github.com/madeinouweland/nn/blob/master/nn-process-diagram.jpeg)
 
-You can [download and print](https://github.com/madeinouweland/nn/blob/master/resources/nn%20process%20diagram.pdf) the diagram.
+You can [download and print](https://github.com/madeinouweland/nn/blob/master/nn-process-diagram.pdf) the diagram.
