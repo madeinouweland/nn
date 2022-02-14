@@ -1,10 +1,10 @@
 # Code and resources that belong to the 'Building neural networks from scratch in Python' course.
 
-The course is divided in chapters and parts. This github repository has all the code that is written in the parts, as well as other resources like datasets and pdf's.
+## Contents
 
-## Code
-
-In chapters 03.01 to 08.02, Python code is written. The resulting code can be found in folders 03.01 to 08.02.
+- finished-code: The finished code for all examples. Look here if something does not work or you get different results.
+- training-test-data: Many of the examples contain training and test data. You can choose to type them in, or copy-and-paste them from here.
+- nn-process-diagram.pdf: A downloadable and printable neural network process diagram that you see below.
 
 ## Process diagram
 
