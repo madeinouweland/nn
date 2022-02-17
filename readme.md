@@ -1,8 +1,8 @@
 # Code and resources that belong to the 'Building neural networks from scratch in Python' course.
 
-![logo](https://github.com/madeinouweland/nn/blob/master/logo.png)
-
 This repository contains finished code examples and training/test data to copy-and-paste in your editor.
+
+![logo](https://github.com/madeinouweland/nn/blob/master/logo.png)
 
 ### [Enroll in the course today](https://www.udemy.com/course/build-neural-networks-from-scratch-with-python-step-by-step/?referralCode=E814E83CD3F450CB4A1F) and learn how to build neural networks from scratch with Python!
 
