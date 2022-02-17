@@ -1,5 +1,7 @@
 # Code and resources that belong to the 'Building neural networks from scratch in Python' course.
 
+Here you find the finished example code and training and test data to copy-and-paste in your editor.
+
 ## Contents
 
 - finished-code: The finished code for all examples. Look here if something does not work or you get different results.
